@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ ! -d ~/TRASH]
+if [ ! -d ~/TRASH ]
 then 
 mkdir TRASH
 fi
