@@ -1,5 +1,8 @@
 #!/bin/bash
-
+if [ ! -d ~/TRASH]
+then 
+mkdir TRASH
+fi
 
 for item in $@
 do
