@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ ! -d ~/TRASH ]
 then 
-mkdir TRASH
+mkdir ~/TRASH
 fi
 
 for item in $@
